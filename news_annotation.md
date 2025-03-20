@@ -53,7 +53,7 @@
 * **VOA新闻**，**朱莉·塔博**马里兰州**巴尔的摩**报道。
 
 # 注解
-## 复杂人名 & 专有名词
+## 复人名 & 专有名词
 * biomedical engineering: 生物医学工程
 * heart patient care: 心脏病患者护理
 * digital model: 数字模型
