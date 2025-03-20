@@ -6,14 +6,14 @@ import time
 pygame.init()
 
 # Path to the video file
-video_path = '../news_video.mp4'
+video_path = 'news_video.mp4'  # Adjust the path as needed
 
 # Create a VideoCapture object
 cap = cv2.VideoCapture(video_path)
 
 # Check if the video file opened successfully
 if not cap.isOpened():
-    print("Error: Could not open video file.")
+    print(f"Error: Could not open video file at path: {video_path}")
     exit()
 
 # Get video properties
