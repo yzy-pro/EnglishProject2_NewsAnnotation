@@ -6,7 +6,7 @@ import time
 pygame.init()
 
 # Path to the video file
-video_path = 'news_video.mp4'
+video_path = '../news_video.mp4'
 
 # Create a VideoCapture object
 cap = cv2.VideoCapture(video_path)
