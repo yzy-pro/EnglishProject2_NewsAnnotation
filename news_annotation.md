@@ -1,58 +1,81 @@
 # 新闻视频（音频）
 [news_video.mp4](news_video.mp4)
+
+
 # 新闻文稿中英对照
 * **Biomedical engineering** researchers at John's Hopkins University are working to transform **heart patient care**. 
 * 约翰霍普金斯大学的**生物医学工程**研究人员正在努力改善**心脏病患者护理**。 
+
 
 
 * They can now create a personalized **digital model** of a patient's heart, a **digital twin** and use **artificial intelligence** to help better predict who is most at risk. [句型分析1](#句型分析1)
 * 他们现在可以为病人的心脏创建一个个性化的**数字模型**，一个**数码孪生体**，并使用**人工智能**来更好地预测谁的发病风险最大。 
 
 
+
 * We do **contrast enhanced MRI** of the heart and then we combine that contrast, enhanced MRI with all the **clinical data** that's known for the patient. 
 * 我们对心脏进行**对照增强核磁共振成像**，然后将共振成像与所有已知的病人**临床数据**结合起来。 
+
 
 
 * This is combined with **survival analysis** and we can tell, over 10 years, what is the risk of a patient of having **sudden cardiac death**. [句型分析2](#句型分析2)
 * 与**生存分析**相结合后，我们可以知道，10年以后，病人**心脏性猝死**的风险是多少。 
 
 
+
 * Unlike **segmented images** most often used today, professor **Natalia Trayanova** says the whole images of the heart produce more accurate predictions of which patients need **defibrillators**. [句型分析3](#句型分析3)
 * 与目前最常用的**分割图像**不同，**纳塔莉亚教授**表示，心脏的整体图像可以更准确地预测哪些患者需要**除颤器**。 
+
 
 
 * We provide these **deep learning algorithms** that are **multimodality**, they represent the patient's condition much better. 
 * 我们提供了这些**多模态**的**深度学习算法**，它们能更好地代表病人的状况。 
 
 
+
 * At the **Sydney Kimmel Comprehensive Cancer Center** at Johns Hopkins, Dr **Victor Velculescu** is leading research into developing new ways of detecting early stage **lung** and other **cancers**. 
 * 在约翰霍普金斯大学的**悉尼金梅尔综合癌症中心**，**维克多·威尔克斯库博士**正在领导一项研究，开发检测早期**肺癌**和其他**癌症**的新方法。 
+
 
 
 * He and his team observed that **cancer cells** grow and replicate more chaotically than normal cells. 
 * 他和他的团队观察到**癌细胞**的生长和复制比正常细胞更混乱。 
 
 
+
 * So when those cells die they leave behind telltale characteristics of **fragments of DNA** circulating in the blood called **Cell-Free DNA**, which carries clues about whether a person may have cancer. [句型分析4](#句型分析4)
 * 因此，当这些细胞死亡时，它们会留下在血液中循环的**DNA片段**的特征，称为**无细胞DNA**，它携带着一个人是否患有癌症的线索。 
+
 
 
 * The team developed a technology called **DELFI** which uses novel **machine learning algorithms** to analyze fragments of that **Cell-Free DNA**. 
 * 该团队开发了一种名为**德尔菲**的技术，该技术使用新颖的**机器学习算法**来分析**无细胞DNA**的片段。 
 
 
+
 * We look in the blood, we identify molecules of DNA called **Cell-Free DNA**, and we look for the profile or the patterns of this **Cell-Free DNA** as a way to identify those individuals who have cancer versus those that don't. 
 * 我们会观察血液，识别被称为**无细胞DNA**的**DNA分子**，我们会寻找这种**无细胞DNA**的轮廓或模式，以此来识别哪些人患有癌症，哪些人没有。 
+
 
 
 * Local Schools says improved **blood tests** could lead to greater **cancer screenings** worldwide. 
 * 当地学校表示，改进的**血液检测**可能会导致全球范围内更多的**癌症筛查**。 
 
 
+
 * **Julie Tabo** **VOA news**, **Baltimore Maryland**. 
 * **VOA新闻**，**朱莉·塔博**马里兰州**巴尔的摩**报道。
 
+
 # 注解
+
+## 重点词汇
+* analyze vt. 分析；解析；研究
+* contrast vt. 对比；对照；差异
+* identify v. 鉴定；识别；确认；发现；找到
+* predict v. 预测；断定；推断；判断
+* combine v. 结合；合并；联合
+
 ## 复人名 & 专有名词
 * biomedical engineering: 生物医学工程
 * heart patient care: 心脏病患者护理
@@ -117,6 +140,7 @@
 ##### 定语：of fragments of DNA circulating in the blood（修饰 telltale characteristics，指的是“在血液中循环的 DNA 片段”）
 ##### 同位语：called Cell-Free DNA（补充说明 “fragments of DNA” 即 “无细胞 DNA”）
 
+
 ## 背景知识扩充
 ### 1. 生物医学工程 (Biomedical Engineering) ###
 #### Definition
@@ -136,7 +160,7 @@
 * 脑-机接口（BCI）技术：随着脑科学和技术的不断进步，BCI技术将在神经科学、康复医疗和人机互动方面发挥越来越大的作用。
 
 ### 2. 数字孪生体 (Digital Twin) ###
-![2.png](2.png)
+![2.png](illustration/2.png)
 #### Definition
 * 数字孪生体是物理实体或过程在虚拟世界中的精确数字化复制。它通过集成实时数据、历史数据和传感器数据，借助物联网（IoT）、人工智能（AI）、大数据和模拟技术，创建物理对象或系统的虚拟模型。这一虚拟模型能够反映其在现实世界中的状态，并预测未来的行为和性能。
 * Components:
@@ -155,7 +179,7 @@
 * 健康领域的数字孪生体：通过患者的数字孪生体，医生可以根据其实时生理数据，模拟不同治疗方法对患者的影响。比如，对于一个心脏病患者，可以创建其心脏的数字孪生体，模拟手术后的恢复情况或药物治疗的效果。
 
 ### 3. 人工智能 (Artificial Intelligence, AI) ###
-![3.png](3.png)
+![3.png](illustration/3.png)
 #### Definition
 * 人工智能是指通过计算机程序模拟人类智能的过程，尤其是在人类需要进行学习、推理、问题解决、理解语言、感知环境等任务时。AI系统可以通过数据、经验和算法进行自我改进，使其能够在没有明确编程的情况下执行复杂任务。
 * Components:
@@ -179,7 +203,7 @@
   * 语音助手：如Apple的Siri、Amazon的Alexa等，通过语音识别与自然语言处理技术，帮助用户控制智能设备、获取信息等。
 
 ### 4. 对照增强核磁共振成像 (Contrast-Enhanced MRI) ###  
-![4.png](4.png)
+![4.png](illustration/4.png)
 #### Definition
 * 对照增强核磁共振成像（CE-MRI）是一种基于MRI技术的影像增强方法，它通过注射或口服对比剂，使得图像中的某些区域比周围组织更加清晰。对比剂通常由含有磁性元素（如镓、钇等）的化合物组成，能够影响核磁共振信号的强度，从而提高图像的对比度和细节，帮助医生更好地观察组织结构的异常或病变。
 * Principle
@@ -191,7 +215,7 @@
 * 中枢神经系统疾病：对于脑肿瘤、脑血管病变、脑炎等疾病，CE-MRI能够增强病变区域的可见度，帮助评估疾病的性质和范围，特别是在无明确症状时。
 
 ### 5.深度学习 (Deep Learning) ###
-![5_1.png](5_1.png)
+![5_1.png](illustration/5_1.png)
 #### Definition
 * 深度学习是一种机器学习的技术，它通过多层（深度）神经网络模型来模拟人类大脑的认知过程，学习和识别数据中的复杂模式。深度学习的“深度”指的是网络中包含多个层次的神经元节点，通过多层次的计算进行数据的抽象和特征提取。它通过大量数据的训练，自动学习出适合的特征表示，从而实现对数据的分类、回归、预测等任务。
 * Principle
@@ -227,7 +251,7 @@
 * 自动驾驶（Autonomous Driving）
 * 金融领域
 ##### 可以展示一个我自己做的基于深度学习的目标识别和追踪的项目 https://github.com/yzy-pro/Yolov12_test1
-![5_2.jpg](5_2.jpg)
+![5_2.jpg](illustration/5_2.jpg)
 
 
 
