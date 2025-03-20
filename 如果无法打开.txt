@@ -1,3 +1,3 @@
 如果news_annotation.md（新闻注解文件）无法打开，或者显示为很多 * 或 # 的乱码，请使用网页打开
-https://github.com/yzy-pro/EnglishProject2_NewsAnnotation
+https://github.com/yzy-pro/EnglishProject2_NewsAnnotation/blob/master/news_annotation.md
 （ctrl+左键单击打开链接）
