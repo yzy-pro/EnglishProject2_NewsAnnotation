@@ -1,3 +1,9 @@
+如果本文件存在大量 * 或 # 的渲染错误，建议直接在浏览器访问
+
+https://github.com/yzy-pro/EnglishProject2_NewsAnnotation/blob/master/news_annotation.md
+
+本地的.html和.pdf大体上可以阅读，仍然无法完全避免渲染错误 :smile:
+
 # 新闻视频（音频）
 [news_video.mp4](news_video.mp4)
 
@@ -159,6 +165,8 @@
 * 智能医疗设备：随着人工智能和物联网的发展，医疗设备将变得更智能，能够实时监控患者健康并自动调整治疗方案。
 * 再生医学与器官打印：通过3D打印和细胞培养技术，可能会实现人工器官的打印和移植，为解决器官短缺问题提供可能的解决方案。
 * 脑-机接口（BCI）技术：随着脑科学和技术的不断进步，BCI技术将在神经科学、康复医疗和人机互动方面发挥越来越大的作用。
+##### References 
+* https://www.cmu.edu/bme/Research/index.html
 
 ### 2. 数字孪生体 (Digital Twin) ###
 ![2.png](illustration/2.png)
@@ -178,6 +186,10 @@
 * 制造业中的数字孪生体：一家汽车制造厂使用数字孪生体来模拟生产线的每个环节，实时获取设备和操作的相关数据，提前识别潜在问题，实现设备故障预测和维修调度，从而提高生产效率并减少停机时间。
 * 智慧城市中的数字孪生体：在一个智慧城市项目中，创建了整个城市的数字孪生体，包括交通、能源消耗、建筑等数据。通过实时监控和数据分析，能够对交通流量进行预测并优化，减少拥堵，并实时管理能源消耗，提升城市的可持续性。
 * 健康领域的数字孪生体：通过患者的数字孪生体，医生可以根据其实时生理数据，模拟不同治疗方法对患者的影响。比如，对于一个心脏病患者，可以创建其心脏的数字孪生体，模拟手术后的恢复情况或药物治疗的效果。
+##### References 
+* https://www.ibm.com/think/topics/what-is-a-digital-twin
+* https://en.wikipedia.org/wiki/Digital_twin
+
 
 ### 3. 人工智能 (Artificial Intelligence, AI) ###
 ![3.png](illustration/3.png)
@@ -202,6 +214,8 @@
 * 客户服务（Customer Service）
   * 聊天机器人：AI驱动的聊天机器人可以为客户提供实时在线咨询、解答问题，提升客户服务效率。 
   * 语音助手：如Apple的Siri、Amazon的Alexa等，通过语音识别与自然语言处理技术，帮助用户控制智能设备、获取信息等。
+##### References 
+* https://www.nature.com/articles/nature14539
 
 ### 4. 对照增强核磁共振成像 (Contrast-Enhanced MRI) ###  
 ![4.png](illustration/4.png)
@@ -214,6 +228,9 @@
 * 肿瘤检测与评估：对比增强MRI常用于肿瘤的评估，尤其是在肝脏、乳腺、脑部、前列腺等部位。通过增强肿瘤区域的信号，帮助医生明确肿瘤的位置、大小和形态，从而为治疗方案的制定提供重要信息。
 * 血管疾病： 通过对比增强MRI进行血管成像，可以清晰显示血管的结构、狭窄或堵塞等病变。特别适用于检测动脉粥样硬化、血栓形成、动脉瘤等疾病。
 * 中枢神经系统疾病：对于脑肿瘤、脑血管病变、脑炎等疾病，CE-MRI能够增强病变区域的可见度，帮助评估疾病的性质和范围，特别是在无明确症状时。
+##### References 
+* https://www.envrad.com/what-is-an-mri-with-contrast/
+* https://www.myssmi.com/blog/how-does-a-contrast-enhanced-mri-work
 
 ### 5.深度学习 (Deep Learning) ###
 ![5_1.png](illustration/5_1.png)
@@ -253,6 +270,7 @@
 * 金融领域
 ##### 可以展示一个我自己做的基于深度学习的目标识别和追踪的项目 https://github.com/yzy-pro/Yolov12_test1
 ![5_2.jpg](illustration/5_2.jpg)
-
+##### References 
+* https://github.com/d2l-ai/d2l-zh
 
 
